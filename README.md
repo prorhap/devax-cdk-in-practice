@@ -1,6 +1,6 @@
-# Welcome to your CDK in Practice 
+# Welcome to CDK in Practice 
 
-This is the source code for AWS CDK in Practice
+This is the source code for DevAx connect, AWS CDK in Practice
 
 ## Links
 
