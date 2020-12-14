@@ -1,8 +1,11 @@
-# Welcome to your CDK TypeScript project!
+# Welcome to your CDK in Practice 
 
-This is a blank project for TypeScript development with CDK.
+This is the source code for AWS CDK in Practice
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+## Links
+
+ * slide: https://www.slideshare.net/prorhap/aws-cdk-in-practice
+ * video: https://www.twitch.tv/videos/836578329
 
 ## Useful commands
 
