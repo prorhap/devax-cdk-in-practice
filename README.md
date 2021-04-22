@@ -1,11 +1,8 @@
-# Welcome to CDK in Practice 
+# Welcome to your CDK TypeScript project!
 
-This is the source code for DevAx connect, AWS CDK in Practice
+This is a blank project for TypeScript development with CDK.
 
-## Links
-
- * slide: https://www.slideshare.net/prorhap/aws-cdk-in-practice
- * video: https://www.twitch.tv/videos/836578329
+The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 ## Useful commands
 
